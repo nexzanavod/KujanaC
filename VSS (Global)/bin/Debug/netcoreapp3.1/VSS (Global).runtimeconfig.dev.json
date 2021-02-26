@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nexza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nexza\\.nuget\\packages"
+    ]
+  }
+}

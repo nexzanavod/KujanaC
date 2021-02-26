@@ -1,0 +1,37 @@
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).exe
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).deps.json
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).runtimeconfig.json
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).runtimeconfig.dev.json
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).dll
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).pdb
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).Views.dll
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\bin\Debug\netcoreapp3.1\VSS (Global).Views.pdb
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).csprojAssemblyReference.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).AssemblyInfoInputs.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).AssemblyInfo.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).csproj.CoreCompileInputs.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).RazorAssemblyInfo.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).RazorAssemblyInfo.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\staticwebassets\VSS (Global).StaticWebAssets.Manifest.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\staticwebassets\VSS (Global).StaticWebAssets.xml
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\scopedcss\bundle\VSS (Global).styles.css
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).TagHelpers.input.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).TagHelpers.output.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).RazorCoreGenerate.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).RazorTargetAssemblyInfo.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).RazorTargetAssemblyInfo.cs
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).Views.pdb
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).dll
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).pdb
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).genruntimeconfig.cache
+C:\Users\Nexza\source\repos\VSS (Global)\VSS (Global)\obj\Debug\netcoreapp3.1\VSS (Global).csproj.CopyComplete
